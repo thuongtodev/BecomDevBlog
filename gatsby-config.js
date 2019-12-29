@@ -7,9 +7,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `BecomeDev`,
-    author: `ThuongTo`,
-    description: `Chia sẻ kinh nghiệm lập trình`,
+    title: `Thuong To Blogs`,
+    author: `Thuong To`,
+    description: `Chia sẻ kinh nghiệm lập trình Javascript`,
     social: [
       {
         name: `twitter`,
